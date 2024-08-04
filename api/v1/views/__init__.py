@@ -15,10 +15,3 @@ from api.v1.views.users import *
 from api.v1.views.places_reviews import *
 
 #to enable christina commit
-
-# Adding changes for task 6 (new view of state objects)
-# Adding changes for task 7 (new view of user objects)
-# Adding changes for task 8 (new view of amenity objects)
-# Adding changes for task 9(new view of user objects handle restful api)
-# Adding changes for task 10 (new view of place objects)
-# Adding changes for task 11 (new view of review objects)

@@ -78,5 +78,3 @@ def put_amenity(amenity_id):
             setattr(amenity, key, value)
     amenity.save()
     return jsonify(amenity.to_dict())
-
-# Adding changes for task 8 (new view of amenity objects)

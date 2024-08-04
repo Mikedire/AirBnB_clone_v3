@@ -95,5 +95,3 @@ def put_place(place_id):
             setattr(place, key, value)
     place.save()
     return jsonify(place.to_dict()), 200
-
-# Adding changes for task 10 (new view of place objects)

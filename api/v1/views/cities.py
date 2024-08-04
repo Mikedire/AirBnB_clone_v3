@@ -90,5 +90,3 @@ def put_city(city_id):
             setattr(city, key, value)
     city.save()
     return jsonify(city.to_dict())
-
-# Adding changes for task 7 (new view of state objects)

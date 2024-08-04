@@ -83,5 +83,3 @@ def put_review(review_id):
             setattr(obj_user, key, value)
     obj_review.save()
     return (jsonify(obj_review.to_dict()), 200)
-
-# Adding changes for task 11 (new view of review objects)

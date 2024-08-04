@@ -80,5 +80,3 @@ def put_state(state_id):
             setattr(state, key, value)
     state.save()
     return jsonify(state.to_dict())
-
-# Adding changes for task 6 (new view of state objects)
