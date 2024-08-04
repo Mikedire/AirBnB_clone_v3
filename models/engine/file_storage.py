@@ -97,3 +97,6 @@ class FileStorage:
                for key in self.__objects:
                    counter += 1
         return counter
+
+
+#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST
