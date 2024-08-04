@@ -13,5 +13,3 @@ from api.v1.views.places import *
 from api.v1.views.cities import *
 from api.v1.views.users import *
 from api.v1.views.places_reviews import *
-
-#to enable christina commit

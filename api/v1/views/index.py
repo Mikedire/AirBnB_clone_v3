@@ -27,6 +27,3 @@ def stat_count():
 
 if __name__ == "__main__":
     pass
-
-
-#to enable christina commit and task 4
