@@ -13,3 +13,10 @@ from api.v1.views.places import *
 from api.v1.views.cities import *
 from api.v1.views.users import *
 from api.v1.views.places_reviews import *
+
+# TASK 6 Create a new view for State objects that handles all default RESTFul API actions:
+# TASK 7 create a new view for City objects 
+# TASK 8 Create a new view for Amenity objects that handles all default RESTFul API actions:
+#TASK 9 Create a new view for USER objects that handles all default RESTFul API actions:
+# TASK 10 Create a new view for PLACE objects that handles all default RESTFul API actions:
+# TASK 11 Create a new view for Amenity objects that handles all default RESTFul API actions:
