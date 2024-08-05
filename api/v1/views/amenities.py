@@ -78,5 +78,3 @@ def put_amenity(amenity_id):
             setattr(amenity, key, value)
     amenity.save()
     return jsonify(amenity.to_dict())
-
-# TASK 8 Create a new view for Amenity objects that handles all default RESTFul API actions:

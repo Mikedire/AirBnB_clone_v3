@@ -95,5 +95,3 @@ def put_place(place_id):
             setattr(place, key, value)
     place.save()
     return jsonify(place.to_dict()), 200
-
-# TASK 10 Create a new view for PLACE objects that handles all default RESTFul API actions:

@@ -83,5 +83,3 @@ def put_review(review_id):
             setattr(obj_user, key, value)
     obj_review.save()
     return (jsonify(obj_review.to_dict()), 200)
-
-#TASK 11 Create a new view for REVIEW objects that handles all default RESTFul API actions:
