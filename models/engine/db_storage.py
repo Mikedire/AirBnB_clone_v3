@@ -107,3 +107,5 @@ class DBStorage:
             Remove private session attribute
         '''
         self.__session.close()
+
+#ADDED COMMENT IN THIS FILE to enable pull request by partner

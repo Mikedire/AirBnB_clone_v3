@@ -140,3 +140,6 @@ class test_DBStorage(unittest.TestCase):
         new.save()
         new_count = models.storage.count("State")
         self.assertEqual(old_count + 1, new_count)
+
+
+#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST by partner
