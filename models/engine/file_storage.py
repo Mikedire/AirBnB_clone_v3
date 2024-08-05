@@ -99,4 +99,4 @@ class FileStorage:
         return counter
 
 
-#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST
+#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST by partner

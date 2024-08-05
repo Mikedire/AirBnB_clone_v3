@@ -142,4 +142,4 @@ class test_DBStorage(unittest.TestCase):
         self.assertEqual(old_count + 1, new_count)
 
 
-#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST
+#ADDED COMMENT IN THIS FILE TO ENABLE PULL REQUEST by partner

@@ -108,4 +108,4 @@ class DBStorage:
         '''
         self.__session.close()
 
-#ADDEDCOMMENT IN THIS FILE
+#ADDED COMMENT IN THIS FILE to enable pull request by partner
