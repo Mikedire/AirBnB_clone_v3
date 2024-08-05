@@ -80,3 +80,5 @@ def put_state(state_id):
             setattr(state, key, value)
     state.save()
     return jsonify(state.to_dict())
+
+# TASK 6 Create a new view for State objects that handles all default RESTFul API actions:
