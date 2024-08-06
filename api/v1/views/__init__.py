@@ -21,3 +21,4 @@ from api.v1.views.places_reviews import *
 #TASK 9 Create a new view for USER objects that handles all default RESTFul API actions:
 # TASK 10 Create a new view for PLACE objects that handles all default RESTFul API actions:
 # TASK 11 Create a new view for Amenity objects that handles all default RESTFul API actions:
+# to see task 13

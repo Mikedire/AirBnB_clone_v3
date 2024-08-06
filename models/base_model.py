@@ -85,3 +85,5 @@ class BaseModel:
             Deletes an object
         '''
         models.storage.delete(self)
+
+# to see task 14

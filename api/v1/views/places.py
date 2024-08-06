@@ -112,3 +112,6 @@ def places_search():
         places = [place.to_dict() for place in all_places]
 
     return jsonify(places)
+
+
+# for task 15
